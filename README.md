@@ -1,4 +1,4 @@
-🧪 AI Tester with Graph & API Endpoint Testing
+🧪 API Tester with Graph & API Endpoint Testing
 
 Built an AI-powered testing tool using Next.js, JavaScript, and Tailwind CSS integrated with Google Gemini API to automate API testing, endpoint validation, and workflow graph testing.
 
