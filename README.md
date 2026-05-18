@@ -11,7 +11,8 @@ The platform allows users to define API endpoints and automatically test them us
 🔗 Connections show request/response flow
 ⚡ AI tests full chains of APIs, not just single endpoints
 🧠 Detects broken links, latency issues, and incorrect responses
-💡 Why it is useful
+
+## 💡 Why it is useful
 🐞 Automates API debugging and reduces manual testing effort
 🔍 Helps visualize complex backend workflows
 ⚙️ Ensures reliability of connected microservices
